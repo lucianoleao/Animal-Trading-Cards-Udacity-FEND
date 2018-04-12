@@ -1,0 +1,35 @@
+.card {
+	border: thin solid lightgray;
+	padding: 10px;
+	width: 300px;
+	box-shadow: 4px 4px 20px 5px rgba(0,0,0,0.2);
+}
+.title {
+	font-size: 2em;
+	margin: 0;
+}
+.card-gif {
+	padding: 10px 0;
+}
+.gif {
+	width: 300px;	
+	border-radius: 15px;
+}
+.card_info {
+	border: thin solid lightgray;
+	padding: 7px;	
+}
+.info_fact {
+	margin: 0;
+	font-style: italic;
+}
+.label{
+	font-weight: bold;	
+}
+.list {
+	padding: 0;
+	list-style: none;
+}
+.info_desc {
+	margin: 0;	
+}
